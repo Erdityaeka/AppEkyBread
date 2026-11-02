@@ -6,13 +6,6 @@ EkyBread is a mobile application designed to simplify the bread ordering process
 
 ---
 
-## 📱 Preview
-
-<p align="center">
-  <img src="assets/banner.png" width="800"/>
-</p>
-
----
 
 ## ✨ Features
 
