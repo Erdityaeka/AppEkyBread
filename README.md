@@ -132,4 +132,3 @@ Design system and prototype were created in Figma. 【1-f8a205】
 ### Home
 - Product List
 - Search Menu
-- 
