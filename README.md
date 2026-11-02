@@ -2,8 +2,7 @@
 
 > Modern bakery ordering mobile application built with Flutter.
 
-EkyBread is a mobile application designed to simplify the bread ordering process for customers while helping cashiers manage orders efficiently. The application provides a seamless ordering experience, reducing queues and improving service quality. 【1-f8a205】
-
+EkyBread is a mobile application designed to simplify the bread ordering process for customers while helping cashiers manage orders efficiently. The application provides a seamless ordering experience, reducing queues and improving service quality.
 ---
 
 
@@ -50,7 +49,7 @@ EkyBread is a mobile application designed to simplify the bread ordering process
 | Figma | UI/UX Design |
 | VS Code | Code Editor |
 
-Tech stack tersebut digunakan pada pengembangan aplikasi EkyBread. 【1-f8a205】
+Tech stack tersebut digunakan pada pengembangan aplikasi EkyBread. 
 
 ---
 
@@ -118,7 +117,7 @@ EkyBread was designed using a modern bakery-themed design system featuring:
 - Responsive layouts
 - Neutral and warm color palette
 
-Design system and prototype were created in Figma. 【1-f8a205】
+Design system and prototype were created in Figma.
 
 ---
 
